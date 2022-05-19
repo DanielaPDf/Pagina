@@ -10,7 +10,7 @@ body {
 .container {
 	max-width: 400px;
 	height: auto;
-	background-color: #EFEFEF;
+	background-color: #EC7094;
 	margin: 5% auto;
 	padding-bottom: 1rem;
 }
@@ -42,7 +42,7 @@ body {
 }
 
 .input, .btn__submit, .btn__reset {
-	background-color: #EFEFEF;
+	background-color: #EC7094;
 	padding: 2rem;
 	margin: 2rem;
 	border: none;
